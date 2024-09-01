@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+A+Journey+To+Become+A+Great+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+Journey+To+Become+A+Great+Hacker" alt="Typing SVG" />
   </a>
 </div>
 <!--
@@ -18,20 +18,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Venomsec](https://youtube.com/@venomsec)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+I'm **[Venomsec](https://youtube.com/@venomsec)** , a **Hacker & Security Researcher**. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
+- **Name**: **Venomsec**
+- **From**: **India**
 - **Bug Hunter** | **Security Researcher** | **Malware Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy agent.
+- I have experience in Cracking,Reverse Engineering,Bug Hunting,Forensics,Social Engineering,Malware Develpment.
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
+- I’m currently learning **Everything** 
 - Reach me out at **venomdark7351@gmail.com**
 
 </details>
