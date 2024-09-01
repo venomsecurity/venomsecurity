@@ -26,7 +26,7 @@ I'm **[Venomsec](https://youtube.com/@venomsec)** , a **Hacker & Security Resear
   <summary>More about me</summary>
 
 - **Name**: **Venomsec**
-- **From**: **India**
+- **From**: **India U+1F1EE**
 - **Bug Hunter** | **Security Researcher** | **Malware Analyst**
 - I have experience in Cracking,Reverse Engineering,Bug Hunting,Forensics,Social Engineering,Malware Develpment.
 -**Reverse Engineering**, **Malware Analysis**
