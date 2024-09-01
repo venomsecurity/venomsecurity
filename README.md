@@ -37,12 +37,13 @@ I'm **[Venomsec](https://youtube.com/@venomsec)** , a **Hacker & Security Resear
 </details>
 <br>
 
+
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/preeti-93b72a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Preeti-Pradhan" height="30" width="40" /></a>
-<a href="https://instagram.com/_preeti_pradhan_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_preeti_pradhan_" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCQGPCu4_m3WeYQAN86rTlQQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Preeti" height="30" width="40" /></a>
-<a href="https://www.facebook.com/preeti.pradhan.16752" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Preeti" height="30" width="40" /></a>  
+<a href="https://https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Preeti-Pradhan" height="30" width="40" /></a>
+<a href="https://instagram.com/0x1harshthakur_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_preeti_pradhan_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VenomSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Preeti" height="30" width="40" /></a>
+<a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Preeti" height="30" width="40" /></a>  
  
 
 ---
