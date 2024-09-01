@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+A+Journey+To+Become+A+Great+Hacker" alt="Typing SVG" />
   </a>
 </div>
-
-<h3 align="center">On A Journey to become a great human being...<p align="right"></h3> 
+<!--
+<h3 align="center">On A Journey to become a great human being...<p align="right"></h3> -->
 
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
