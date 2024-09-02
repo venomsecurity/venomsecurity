@@ -23,9 +23,9 @@ I'm **[Venomsec](https://youtube.com/@venomsec)** , a **Hacker & Security Resear
 
 
 <details>
-  <summary>More about me</summary>
+  <summary>**More About Me**</summary>
 
-- **Name**: **Venomsec**
+- **Name**: **Harsh Thakur aka Venomsec**
 - **From**: **India**
 - **Bug Hunter** | **Security Researcher** | **Malware Analyst**
 - I have experience in Cracking,Reverse Engineering,Bug Hunting,Forensics,Social Engineering,Malware Develpment.
@@ -38,7 +38,7 @@ I'm **[Venomsec](https://youtube.com/@venomsec)** , a **Hacker & Security Resear
 <br>
 
 
-<h3 align="left">Connect With Me:</h3>
+<h3 align="left">**Connect With Me:**</h3>
 <p align="left">
 <a href="https://https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-thakur-760961230" height="30" width="40" /></a>
 <a href="https://instagram.com/0x1harshthakur_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0x1harshthakur_" height="30" width="40" /></a>
