@@ -19,7 +19,7 @@
 </h2>
 
 I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hacker & Security Researcher**. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of Cyber Security, Malwares, Viruses, Bug hunting.I hope i will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
@@ -60,7 +60,7 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 
 👉 Building & Contributing To Open Source Projects
 
-👉 Currently Learning Android/IOS Pentesting & Web3 
+👉 Currently Learning Web & Android & IOS Pentesting and also Web 3.0 
 
 `Updating:`  Journey to Cybersecurity Specialist👀.
 
