@@ -43,8 +43,8 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 <a href="https://https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-thakur-760961230" height="30" width="40" /></a>
 <a href="https://instagram.com/0x1harshthakur_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0x1harshthakur_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@VenomSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="VenomSec" height="30" width="40" /></a>
-<a href="https://x.com/Venomsec_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Harsh Singh Rajput" height="30" width="40" /></a>  
- 
+<a href="https://x.com/Venomsec_" target="_blank"><img src="https://iconscout.com/icon/twitter" alt="Twitter Icon" height="30" width="40" /></a> Icon by <a href="https://iconscout.com/icons/twitter" target="_blank">IconScout</a> by <a href="https://iconscout.com/contributors/sonisokell" target="_blank">Soni Sokell</a>
+
 
 ---
 
