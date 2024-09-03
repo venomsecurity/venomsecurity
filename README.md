@@ -40,11 +40,10 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-thakur-760961230" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harsh Thakur" height="30" width="40" /></a>
 <a href="https://instagram.com/0x1harshthakur_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0x1harshthakur_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@VenomSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="VenomSec" height="30" width="40" /></a>
-<a href="https://x.com/Venomsec_" target="_blank"><img src="https://iconscout.com/icon/twitter" alt="Twitter Icon" height="30" width="40" /></a> Icon by <a href="https://iconscout.com/icons/twitter" target="_blank">IconScout</a> by <a href="https://iconscout.com/contributors/sonisokell" target="_blank">Soni Sokell</a>
-
+<a href="ttps://www.youtube.com/@VenomSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Venomsec" height="30" width="40" /></a>
+<a href="https://x.com/Venomsec_" target="_blank"><img align="center" src="https://i.pinimg.com/originals/ed/54/51/ed5451961869a97b434b185f2fe064cc.webp" alt="Twitter Icon" height="30" width="40" /></a> 
 
 ---
 
