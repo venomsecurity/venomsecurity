@@ -1,3 +1,8 @@
+<p align='center'>
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=150&center=true&duration=3000&pause=1000&width=2000&height=250&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
+   </a> 
+</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="90%" height="auto"/></p>
 
@@ -40,9 +45,9 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harsh Thakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harsh Thakur" height="30" width="40" /></a>
 <a href="https://instagram.com/0x1harshthakur_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0x1harshthakur_" height="30" width="40" /></a>
-<a href="ttps://www.youtube.com/@VenomSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Venomsec" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VenomSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Venomsec" height="30" width="40" /></a>
 <a href="https://x.com/Venomsec_" target="_blank"><img align="center" src="https://i.pinimg.com/originals/ed/54/51/ed5451961869a97b434b185f2fe064cc.webp" alt="Twitter Icon" height="30" width="40" /></a> 
 
 ---
