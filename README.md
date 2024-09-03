@@ -48,7 +48,7 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 
 ---
 
-<h2 id="present_status"> Present Status 🤖</h3>
+<h2 id="present_status"> Present Status 👨‍💻</h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
@@ -68,7 +68,7 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''>GitHub Stats ♨️</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=venomsec-404&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
