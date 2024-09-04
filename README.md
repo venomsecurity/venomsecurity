@@ -31,7 +31,7 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
   <summary><b>More About Me</b></summary>
 
 - **Name**: **Harsh Thakur aka Venomsec**
-- **From**: **India**
+- **From**: **India🇮🇳**
 - **Bug Hunter** | **Security Researcher** | **Malware Analyst**
 - I have experience in Cracking,Reverse Engineering,Bug Hunting,Forensics,Social Engineering,Malware Develpment.
 -**Reverse Engineering**, **Malware Analysis**
