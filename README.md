@@ -75,9 +75,9 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 <h2 id="github_stats" align=''>GitHub Stats ♨️</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-    [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=venomsecurity &theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=venomsecurity &theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomsecurity&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+    [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=venomsecurity &theme=vision-friendly-dark)](https://github.com/venomsecurity/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=venomsecurity&theme=dark&card_width=450)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/venomsecurity/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomsecurity&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 <br><br>
 
 
