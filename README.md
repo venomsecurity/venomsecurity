@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hacker & Security Researcher**. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hacker & Security Researcher**. I'm on my way to becoming a **Cybersecurity Specialist** or a **Bug Hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of Cyber Security, Malwares, Viruses, Bug hunting.I hope i will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
