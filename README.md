@@ -1,9 +1,9 @@
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="80%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+A+Journey+To+Become+A+Great+Hacker" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,13 +23,13 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 <details>
   <summary><b>More About Me</b></summary>
 
-- **Name**: **Harsh Thakur** aka **Venomsec**
-- **From**: **India🇮🇳**
-- **Bug Hunter** | **Security Researcher** | **Malware Analyst**
+- **Name**: **Harsh Thakur** aka **(Venomsec)**
+- **From**: **INDIAN**
+- **Bug Bounty Hunter** | **Security Researcher** | **DevSecOps Engineer**
 - I have experience in Cracking,Reverse Engineering,Bug Hunting,Forensics,Social Engineering,Malware Develpment.
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **Everything** 
+- I’m currently learning **DevSecOps | Web3 Security** 
 - Reach me out at **venomdark7351@gmail.com**
 
 </details>
@@ -39,7 +39,7 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-thakur-760961230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harsh Thakur" height="30" width="40" /></a>
-<a href="https://instagram.com/0x1harshthakur_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0x1harshthakur_" height="30" width="40" /></a>
+<a href="https://instagram.com/r00t_h4rsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0x1harshthakur_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@VenomSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Venomsec" height="30" width="40" /></a>
 <a href="https://x.com/Venomsec_" target="_blank"><img align="center" src="https://i.pinimg.com/originals/ed/54/51/ed5451961869a97b434b185f2fe064cc.webp" alt="Twitter Icon" height="30" width="40" /></a> 
 
@@ -49,7 +49,7 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & Malware Development.
+👉 Currently Learning Bug Bounty Hunting & Web3 Security & DevSecOps.
 
 👉 Managing Tech Communities & Content Creator.
 
@@ -57,7 +57,7 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 
 👉 Building & Contributing To Open Source Projects
 
-👉 Currently Learning Web & Android & IOS Pentesting and also Web 3.0 
+👉 Currently Learning DevSecOps, Web, Android & IOS Pentesting and also Web 3.0 
 
 `Updating:`  Journey to Cybersecurity Specialist👀.
 
@@ -123,10 +123,6 @@ I'm **Harsh Thakur** aka **[Venomsec](https://youtube.com/@venomsec)** , A **Hac
 <p align="center"><a href="https://buymeacoffee.com/venomsec"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
-
-
-
-
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
